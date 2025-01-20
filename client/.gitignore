@@ -1,0 +1,32 @@
+# Node.js
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# React production build
+/build
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS system files
+.DS_Store
+
+# MongoDB logs
+/db/*.log
+
+# IDE settings
+.vscode/
+
+# Uploaded files
+/uploads
